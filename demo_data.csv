@@ -1,0 +1,21 @@
+Datum,Belopp,Konto,Kontonamn,Leverantör,Beskrivning
+2023-01-15,15000,5810,Bilhyra,Hertz Biluthyrning,Hyrbil tjänsteresa Stockholm
+2023-01-20,4500,6071,Representation avdragsgill,Restaurang Fina Fisken,Affärslunch med potentiell kund
+2023-02-05,-12000,3010,Försäljning tjänster,Företag AB,Faktura 1001
+2023-02-14,28500,6550,Konsultarvoden,McKinsey & Co,Strategiutredning del 1
+2023-03-10,3200,5831,Kost och logi inrikes,Grand Hotel,Övernattning konferens
+2023-03-22,125000,5940,Sponsring,Karlshamns Fotbollsförening,Huvudsponsor 2023
+2023-04-05,-5000,3010,Försäljning tjänster,Kommunen,Faktura 1002
+2023-04-12,850,6072,Representation ej avdragsgill,Systembolaget,Gåva till avtackning
+2023-05-02,45000,6550,Konsultarvoden,IT Konsult Syd,Systemutveckling
+2023-05-18,1200,5810,Bilhyra,Taxi Kurir,Taxi till flygplats
+2023-06-10,18500,6071,Representation avdragsgill,Golfklubben,Kundaktivitet golf
+2023-06-25,-25000,3010,Försäljning tjänster,Företag AB,Faktura 1003
+2023-07-05,3500,5831,Kost och logi inrikes,Scandic,Hotellnatt
+2023-08-15,65000,6550,Konsultarvoden,McKinsey & Co,Strategiutredning del 2
+2023-09-02,420,6071,Representation avdragsgill,Kafé Hörnet,Fika med leverantör
+2023-10-10,150000,5940,Sponsring,Hockeyklubben AB,Arenareklam
+2023-11-20,5500,5832,Kost och logi utrikes,Hotel Berlin,Tjänsteresa mässa
+2023-12-05,2500,6072,Representation ej avdragsgill,Restaurang Guldkanten,Julbord ledningsgrupp
+2023-12-15,-45000,3010,Försäljning tjänster,Kommunen,Faktura 1004
+2023-12-28,12500,6550,Konsultarvoden,PR Byrån,Kriskommunikation
